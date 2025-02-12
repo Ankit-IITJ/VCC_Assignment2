@@ -38,8 +38,8 @@ Ensure you have the following:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Ankit-IITJ/VCC_Assignment2.git
+   cd VCC_Assignment2
    ```
 2. **Make the script executable**
    ```bash
