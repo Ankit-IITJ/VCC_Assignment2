@@ -13,10 +13,15 @@ This repository provides an automated approach to deploying a scalable and secur
 
 ## Features
 ✅ Automates **GCP SDK installation** and authentication.
+
 ✅ Deploys **Managed Instance Group** with auto-scaling policies.
+
 ✅ Configures **firewall rules** and **IAM roles** for security.
+
 ✅ Sets up an **HTTP Load Balancer** for traffic distribution.
+
 ✅ Provides testing scripts for **auto-scaling, security, and IAM role verification**.
+
 ✅ Includes a cleanup script to **delete resources** after testing.
 
 ---
@@ -126,7 +131,7 @@ Below is the high-level architecture of the deployed infrastructure:
 ---
 
 ## 🎥 Video Demonstration
-A recorded demonstration of the setup process: [Watch Here](#)
+A recorded demonstration of the setup process: [Watch Here](https://drive.google.com/file/d/16rHJrVLsRRSJMvGNGtTnqGMNKFj0bwWA/view?usp=sharing)
 
 ## 📚 References
 - [GCP SDK](https://cloud.google.com/sdk?hl=en)
@@ -137,8 +142,8 @@ A recorded demonstration of the setup process: [Watch Here](#)
 
 ---
 
-## Authors
-
+## 👥 Authors
+- Ankit Kumar Chauhan (m23csa509@iitj.ac.in)
 
 
 🚀 **Happy Cloud Computing!**
